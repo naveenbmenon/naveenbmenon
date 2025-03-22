@@ -5,7 +5,7 @@ I am a passionate **web developer** and **machine learning enthusiast** who thri
 ## 🔧 Technologies I work with
 
 - **Languages**: Python, C, JavaScript, SQL , HTML , CSS
-- **Technologies/Frameworks**:  ReactJS, NextJS, NodeJS,Git , Tailwind CSS , Pandas , 
+- **Technologies/Frameworks**:  ReactJS, NextJS, NodeJS , Tailwind CSS , Pandas , 
    Tkinter , Numpy , Matplotlib , OOPs
 - **Machine Learning**: TensorFlow, Scikit-learn
 - **Tools**: Git, Spyder, Jupyter Notebook, CodeBlocks, VS Code
