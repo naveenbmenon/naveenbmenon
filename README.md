@@ -3,8 +3,9 @@
 I am a passionate **web developer** and **machine learning enthusiast** who thrives on creating interactive, user-friendly websites and leveraging data to build intelligent applications. With a strong focus on both frontend and backend technologies, I aim to develop innovative solutions that drive impactful results. I'm always excited to explore new technologies and collaborate on projects that challenge my skills.
 
 ## 🔧 Technologies I work with
--**Languages**: Python, C, JavaScript, SQL , HTML , CSS
--**Technologies/Frameworks**: GitHub, ReactJS, NextJS, NodeJS,Git , Tailwind CSS , Pandas , 
+
+- **Languages**: Python, C, JavaScript, SQL , HTML , CSS
+- **Technologies/Frameworks**:  ReactJS, NextJS, NodeJS,Git , Tailwind CSS , Pandas , 
    Tkinter , Numpy , Matplotlib , OOPs
 - **Machine Learning**: TensorFlow, Scikit-learn
 - **Tools**: Git, Spyder, Jupyter Notebook, CodeBlocks, VS Code
