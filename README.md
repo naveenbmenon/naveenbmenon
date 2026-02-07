@@ -1,25 +1,55 @@
-# 👋 Hi, I'm Naveen Bijulal Menon!
+<h1 align="center">Hi 👋, I'm Naveen</h1>
+<h3 align="center">Backend & AI Developer | CCE Student @ Amrita</h3>
 
-I am a passionate **web developer** and **machine learning enthusiast** who thrives on creating interactive, user-friendly websites and leveraging data to build intelligent applications. With a strong focus on both frontend and backend technologies, I aim to develop innovative solutions that drive impactful results. I'm always excited to explore new technologies and collaborate on projects that challenge my skills.
-
-## 🔧 Technologies I work with
-
-- **Languages**: Python, C, JavaScript, SQL , HTML , CSS
-- **Technologies/Frameworks**:  ReactJS, NextJS, NodeJS , Tailwind CSS , Pandas , 
-   Tkinter , Numpy , Matplotlib , OOPs
-- **Machine Learning**: TensorFlow, Scikit-learn
-- **Tools**: Git, Spyder, Jupyter Notebook, CodeBlocks, VS Code
-
-## 🚀 Projects
-Check out my repositories below to see the projects I'm working on!
-
-- [Driver Fatigue Detection using EEG Signals](https://github.com/naveenbmenon/Driver-Fatigue-Detection)  
-- [Personal Portfolio Website](https://github.com/naveenbmenon/Portfolio)
-- [Finance Manager](https://github.com/naveenbmenon/Finance-Manager)
-
-## 📫 Contact
-Feel free to reach out to me via email at [naveenbijulalmenon@example.com](mailto:naveenbijulalmenon@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/naveen-bijulal-menon-b1a28a330/).
+<p align="center">
+Building scalable systems • Learning daily • Open to Internships 🚀
+</p>
 
 ---
 
-Let's create something amazing together! 😊
+## 🚀 About Me
+
+- 🎓 Computer & Communication Engineering Student  
+- 💻 Passionate about Backend, AI & System Design  
+- 🔭 Currently building real-world products  
+- 📈 Improving DSA & Cloud Skills  
+- 💼 Looking for Internship Opportunities  
+
+---
+
+## 🛠 Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,fastapi,js,react,nodejs,postgres,aws,docker,git" />
+</p>
+
+---
+
+## 📌 Featured Projects
+
+| Project        | Description                                                                                         | Tech |
+|----------------|-----------------------------------------------------------------------------------------------------|------|
+| 📚 LearnFlow    | Smart learning platform with progress tracking and role-based access                                | React, FastAPI, PostgreSQL |
+| 🌐 OmniBridge   | Unified API & system integration service                                                            | FastAPI, REST, Microservices |
+| 📊 GitSense     | GitHub analytics & developer insights tool                                                          | Python, GitHub API, Data Viz |
+| 🚗 DriveAlert   | ML-based driver fatigue detection using signal datasets and feature analysis                        | Python, Machine Learning |
+| 📡 RFAL         | RF transmitter identification using QPSK-modulated signals and deep learning on .dat files         | Python, Deep Learning, DSP |
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=naveenbmenon&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=naveenbmenon&theme=tokyonight" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+<a href="https://linkedin.com/in/naveenbmenon">LinkedIn</a> •
+<a href="https://naveen-dev.vercel.app">Portfolio</a> •
+<a href="mailto:naveenbijulalmenon@gmail.com">Email</a>
+</p>
