@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/naveenbmenon/naveenbmenon/main/banner.png" alt="Banner" width="100%"/>
+  <img src="https://raw.githubusercontent.com/naveenbmenon/naveenbmenon/main/banner1.png" alt="Banner" width="100%"/>
 </p>
 
 
@@ -39,15 +39,6 @@ Building scalable systems • Learning daily • Open to Internships 🚀
 | 📊 GitSense     | GitHub analytics & developer insights tool                                                          | Python, GitHub API, Data Viz |
 | 🚗 DriveAlert   | ML-based driver fatigue detection using signal datasets and feature analysis                        | Python, Machine Learning |
 | 📡 RFAL         | RF transmitter identification using QPSK-modulated signals and deep learning on .dat files         | Python, Deep Learning, DSP |
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=naveenbmenon&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=naveenbmenon&theme=tokyonight&hide_border=true" height="165"/>
-</p>
 
 ---
 
