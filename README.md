@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/naveenbmenon/naveenbmenon/main/banner.png" alt="Banner" width="100%"/>
+</p>
+
+
 <h1 align="center">Hi 👋, I'm Naveen</h1>
 <h3 align="center">Backend & AI Developer | CCE Student @ Amrita</h3>
 
@@ -40,8 +45,8 @@ Building scalable systems • Learning daily • Open to Internships 🚀
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=naveenbmenon&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=naveenbmenon&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=naveenbmenon&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=naveenbmenon&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 ---
